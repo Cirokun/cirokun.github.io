@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[https://cirokun.github.io/regressao.html](url)
+
 [Link](https://cirokun.github.io/regressao.html)
 
 [Link](url) and ![Image](src)
