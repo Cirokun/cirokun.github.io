@@ -28,7 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Regressão Linear](cirokun.github.io/regressao.md)
+[Regressão Linear](../regressao.md)
 
 [Regressão Linear](https://cirokun.github.io/regressao.html)
 
