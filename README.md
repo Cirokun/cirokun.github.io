@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Regressão Linear](https://github.com/Cirokun/cirokun.github.io/edit/main/regressao.md)
+[Regressão Linear](cirokun.github.io/regressao.md)
 
 [Link](url) and ![Image](src)
 ```
