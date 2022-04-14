@@ -15,7 +15,7 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: cirokun.github.io
 incremental: false
 highlighter: rouge
 gist:
