@@ -6,14 +6,14 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://cirokun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cirokun.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
   name: Ciro Higashi
   links:
     - https://www.linkedin.com/in/ciro-higashi/
-    - https://www.linkedin.com/in/ciro-higashi/
+    - https://cirokun.github.io/cirohigashi.github.io/
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -32,6 +32,7 @@ email: cirohigashi@gmail.com # email for form submission
 #twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  Cirokun # replace with your_github_username or comment to remove link from footer
 instagram_username: oisouciro # replace with your_instagram_username or comment to remove link from footer
+linkedin_username: cirohigashi
 
 disqus:
   shortname: cirohigashi # to enable comments replace with your_disqus_shortname
