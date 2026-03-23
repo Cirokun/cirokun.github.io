@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Ciro\'s World # your site title
+title: Ciro's World # your site title
 author: Ciro Higashi # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Blog', link: '/blog'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  My portfolio so that I can structurally share some thoughts I have during my time on Earth
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
