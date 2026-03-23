@@ -18,8 +18,8 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'About', link: '/about/'}
+  - {name: 'Contact', link: '/contact/'}
 
 tagline: >
   My portfolio so that I can structurally share some thoughts I have during my time on Earth
