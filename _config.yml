@@ -24,7 +24,7 @@ navigation: # Navigation links
 tagline: >
   My portfolio so that I can structurally share some thoughts I have during my time on Earth
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/capa.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: cirohigashi@gmail.com # email for form submission
 
