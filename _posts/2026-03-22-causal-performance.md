@@ -1,11 +1,13 @@
 ---
 layout: post # needs to be post
 title: Why model performance is not the same as causal performance # title of your post
-featured-img: sleek #optional - if you want you can include hero image
+featured-img: meme_causal1 #optional - if you want you can include hero image
 categories: [Blog, Causal Inference]
 ---
 
 Hi, this is my first post here, and I actually been longing to write about this because it involves a subject I care a lot about: Causal Inference.
+
+If you want to use [MathJax](https://www.mathjax.org/) in your posts, add `mathjax: true` in [YAML front matter](https://jekyllrb.com/docs/frontmatter/) of your post:
 
 ```python
 import numpy as np
